@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://extras-ug.github.io/extras/sitemap.xml
